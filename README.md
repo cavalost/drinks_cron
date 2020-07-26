@@ -38,7 +38,7 @@ npm run start
 ```
 
 ### Project description
-
+Project based on: [https://github.com/PipedreamHQ/pipedream/tree/master/interfaces/timer/examples/create-component](https://github.com/PipedreamHQ/pipedream/tree/master/interfaces/timer/examples/create-component)
 This project uploads a new PipeDream's component that will run a cron job defined
 in the payload each 24 hours.
 
