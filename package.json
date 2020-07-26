@@ -1,0 +1,13 @@
+{
+  "name": "drinks_cron",
+  "author": "Claudina Avalos<claudina.avalos@opendeusto.es>",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run deploy",
+    "deploy": "node deploy-cron-job.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
+}
