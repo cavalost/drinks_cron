@@ -4,7 +4,7 @@
 
 | **Category**              | **Value**                                 |
 | ------------------------- | ---------------------------------------- |
-| **Contact**               | claudina.avalos@opendeusto.es
+| **Contact**               |@cavalost
 | **Language / Framework**  | Node
 | **Deployment type**       | PipeDream
 
